@@ -1,0 +1,30 @@
+header{
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+
+header > div > a{
+    text-shadow: initial;
+}
+
+section.callout{
+    color: white;
+}
+
+[class*="devicon"]{
+    font-size: xx-large;
+    color: rgba(29, 128, 159, 0.9);
+}
+
+.portfolio-item .caption .caption-content{
+    text-shadow: 1px 1px 2px black;
+}
+
+#accordion > .card{
+    font-family: "Source Code Pro", monospace;
+}
+
+.card-header > h5 > button {
+    font-size: large;
+    font-weight: bolder;
+}
