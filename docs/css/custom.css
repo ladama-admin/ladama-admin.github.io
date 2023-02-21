@@ -342,3 +342,9 @@ tbody {
   color: white;
   text-align: center;
 }
+
+#register{
+  padding: 5rem 0;
+  background-color: #cbd9dd;
+  text-align: center;
+}
